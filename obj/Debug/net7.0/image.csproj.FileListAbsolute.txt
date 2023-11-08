@@ -1,0 +1,14 @@
+C:\Users\maldi\OneDrive\Рабочий стол\image\bin\Debug\net7.0\image.exe
+C:\Users\maldi\OneDrive\Рабочий стол\image\bin\Debug\net7.0\image.deps.json
+C:\Users\maldi\OneDrive\Рабочий стол\image\bin\Debug\net7.0\image.runtimeconfig.json
+C:\Users\maldi\OneDrive\Рабочий стол\image\bin\Debug\net7.0\image.dll
+C:\Users\maldi\OneDrive\Рабочий стол\image\bin\Debug\net7.0\image.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\image\obj\Debug\net7.0\image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldi\OneDrive\Рабочий стол\image\obj\Debug\net7.0\image.AssemblyInfoInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\image\obj\Debug\net7.0\image.AssemblyInfo.cs
+C:\Users\maldi\OneDrive\Рабочий стол\image\obj\Debug\net7.0\image.csproj.CoreCompileInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\image\obj\Debug\net7.0\image.dll
+C:\Users\maldi\OneDrive\Рабочий стол\image\obj\Debug\net7.0\refint\image.dll
+C:\Users\maldi\OneDrive\Рабочий стол\image\obj\Debug\net7.0\image.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\image\obj\Debug\net7.0\image.genruntimeconfig.cache
+C:\Users\maldi\OneDrive\Рабочий стол\image\obj\Debug\net7.0\ref\image.dll
